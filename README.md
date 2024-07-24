@@ -1,6 +1,6 @@
 # Scroll Progress Indicator
 
-A modern scroll progress indicator implemented using CSS custom properties, animations, and counters. This project showcases how to create a dynamic scroll progress indicator that provides a visual representation of the user's reading progress on a webpage.
+A modern scroll progress indicator implemented using CSS custom properties, animations, and counters. This project showcases how to create a dynamic scroll progress indicator that provides a visual representation of the user's reading progress on a webpage, without a bit of javascript.
 
 ## Demo
 
