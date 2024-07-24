@@ -4,7 +4,7 @@ A modern scroll progress indicator implemented using CSS custom properties, anim
 
 ## Demo
 
-![Demo GIF](https://rahajason.com/css-scroll/))  <!-- Add a link to your demo GIF or video here -->
+(https://rahajason.com/css-scroll/)  <!-- Add a link to your demo GIF or video here -->
 
 ## Features
 
